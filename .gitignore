@@ -2,6 +2,7 @@
 *.class
 
 *.edea
+*.git
 
 # Log file
 *.log
