@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+*.edea
+
 # Log file
 *.log
 
